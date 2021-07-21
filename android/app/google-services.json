@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14741348569",
+    "project_id": "typeaheadinput",
+    "storage_bucket": "typeaheadinput.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14741348569:android:5473f0fe85f303c02d5ec8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_typeahead_input"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14741348569-dbhot6ge51lc30m0ipcoho3bnunhv6uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbnKycUQlGd3CwfzxSlb2exx2VffZHlHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14741348569-dbhot6ge51lc30m0ipcoho3bnunhv6uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
